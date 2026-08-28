@@ -1,16 +1,24 @@
-## Hi there 👋
+# GEAR — Grupo de Extensão em Automação e Robótica
 
-<!--
-**Gear-Ufscar/Gear-Ufscar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A **GEAR** é um projeto de extensão universitária voltado à promoção, integração e difusão do conhecimento em robótica, automação, inteligência artificial e áreas correlatas. Funciona como um espaço multidisciplinar de formação complementar, desenvolvimento técnico-científico e aproximação com a comunidade.
 
-Here are some ideas to get you started:
+## O que fazemos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📚 Grupos de estudo
+- 🛠️ Cursos e oficinas
+- 🤖 Projetos práticos
+- 🏆 Competições e hackathons
+- 🔬 Exposições e divulgação científica e tecnológica
+
+## Missão
+
+Contribuir para a formação acadêmica e profissional dos participantes, estimular a interdisciplinaridade e fortalecer a articulação entre universidade, sociedade e os setores de ciência, tecnologia e inovação.
+
+## Links
+
+- 🔗 Site: *em construção*
+- 📷 Instagram: [@Gear](https://www.instagram.com/gear.ufscar)
+
+---
+
+***O futuro engrena aqui***
