@@ -4,11 +4,11 @@ A **GEAR** é um projeto de extensão universitária voltado à promoção, inte
 
 ## O que fazemos
 
-- 📚 Grupos de estudo
-- 🛠️ Cursos e oficinas
-- 🤖 Projetos práticos
-- 🏆 Competições e hackathons
-- 🔬 Exposições e divulgação científica e tecnológica
+- Grupos de estudo
+- Cursos e oficinas
+- Projetos práticos
+- Competições e hackathons
+- Exposições e divulgação científica e tecnológica
 
 ## Missão
 
